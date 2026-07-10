@@ -39,6 +39,6 @@
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seminy3&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seminy3&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-seminy3.vercel.app/api?username=seminy3&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <img src="https://github-readme-stats-seminy3.vercel.app/api/top-langs/?username=seminy3&layout=compact&theme=tokyonight" height="160" />
 </div>
