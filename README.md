@@ -9,7 +9,6 @@
 
 ### 📜 자격증 (Certifications)
 - **SQLD** (SQL Developer) — 2026.06.19
-- **ADsP** (데이터분석 준전문가) — 준비 중 📖
 
 ### 🛠️ 사용 언어 & 기술 (Tech Stack)
 
